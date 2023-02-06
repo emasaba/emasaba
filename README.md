@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Emanuele Sabatino. I'm a 3D Game Art student at TheSign!
 
 <!--
 **emasaba/emasaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
